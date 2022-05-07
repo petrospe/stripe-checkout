@@ -1,0 +1,7 @@
+.env
+nbproject
+node_modules
+.node_history
+logs
+package.json
+package-lock.json
